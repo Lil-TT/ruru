@@ -49,6 +49,12 @@ section {
   align-items: center;
 }
 
+.intro {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .intro h1,
 .outro h1 {
   width: 30%;
